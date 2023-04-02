@@ -3,3 +3,5 @@ KING REVOLUSI
 - Pemetaan Alokasi Dana Unruk kemana
 - Perhitungan resiko yang harus ditaanggung
 - Estimasi saya mendapatkan dana yang saya target
+- Membuat daftar orang-orang yang diprioritaskan
+- Membangun bersama ekonomi orang-orang disekitar
